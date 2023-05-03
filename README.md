@@ -1,4 +1,4 @@
-#  Fullstack Movie Review App 
+#  Movie Review API
 Utilising 
 - Java / Springboot backend
 - React JS Frontend 
